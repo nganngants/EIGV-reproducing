@@ -1,0 +1,1 @@
+[2023-05-24 23:08:14] v='1.0'_ans_num=5_num_frames=16_word_dim=768_module_dim=512_app_pool5_dim=2048_motion_dim=2048_gpu=0_epoch=35_num_workers=8_bs=128_lr=5e-05_wd=0_drop=0.3_a=0.1_a2=1_neg=5_b=0.0125_tau=0.1_tau_gumbel=0.9
